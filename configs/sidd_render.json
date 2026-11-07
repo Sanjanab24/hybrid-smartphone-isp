@@ -1,0 +1,52 @@
+{
+ "G4": {
+  "pattern": "BGGR",
+  "color_matrix": "color_matrix2",
+  "rownorm": true,
+  "render": {
+   "demosaic": "ea",
+   "gamma": "srgb"
+  },
+  "match_psnr": 34.17
+ },
+ "GP": {
+  "pattern": "BGGR",
+  "color_matrix": "color_matrix2",
+  "rownorm": true,
+  "render": {
+   "demosaic": "ea",
+   "gamma": "srgb"
+  },
+  "match_psnr": 30.0
+ },
+ "IP": {
+  "pattern": "RGGB",
+  "color_matrix": "color_matrix2",
+  "rownorm": true,
+  "render": {
+   "demosaic": "ea",
+   "gamma": "srgb"
+  },
+  "match_psnr": 35.47
+ },
+ "N6": {
+  "pattern": "BGGR",
+  "color_matrix": "color_matrix2",
+  "rownorm": true,
+  "render": {
+   "demosaic": "ea",
+   "gamma": "srgb"
+  },
+  "match_psnr": 29.11
+ },
+ "S6": {
+  "pattern": "GRBG",
+  "color_matrix": "color_matrix2",
+  "rownorm": true,
+  "render": {
+   "demosaic": "ea",
+   "gamma": "srgb"
+  },
+  "match_psnr": 35.56
+ }
+}

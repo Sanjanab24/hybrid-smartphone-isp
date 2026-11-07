@@ -1,0 +1,9 @@
+.venv
+.git
+datasets
+data_shards
+runs
+weights/*.pth
+weights/*.pt
+tests
+**/__pycache__

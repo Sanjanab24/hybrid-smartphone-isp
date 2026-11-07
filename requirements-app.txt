@@ -1,0 +1,11 @@
+numpy>=1.26
+scipy>=1.11
+opencv-python-headless>=4.9
+scikit-image>=0.22
+rawpy>=0.21
+h5py>=3.10
+onnxruntime>=1.18
+gradio==6.31.0
+psutil>=5.9
+pillow>=10.0
+pillow-heif>=0.16   # iPhone HEIC uploads

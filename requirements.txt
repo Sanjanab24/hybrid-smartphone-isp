@@ -1,0 +1,10 @@
+-r requirements-app.txt
+# training / evaluation (torch is installed separately, see README)
+lpips>=0.1.4
+onnx>=1.16
+onnxscript>=0.1
+tqdm>=4.66
+pyyaml>=6.0
+matplotlib>=3.8
+gdown>=5.1
+pytest>=8.0

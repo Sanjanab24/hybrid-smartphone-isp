@@ -1,0 +1,26 @@
+# environments and caches
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.claude/
+.vscode/
+.env
+
+# data and training outputs (large, reproducible with the commands in README.md)
+datasets/
+data_shards/
+runs/
+runs_smoke/
+results/examples/
+
+# pretrained third-party weights (download them, see README.md); our own small ONNX models are committed
+weights/*.pth
+weights/*.pt
+
+# local-only files
+unused_examples/
+*.log
+*.data
+sym_shape_infer_temp.onnx
+*_pre.onnx
